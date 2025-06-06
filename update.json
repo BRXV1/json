@@ -1,0 +1,21 @@
+{
+  "versionCode": 6,
+  "versionName": "2.0.0",
+  "apkUrl": "https://clientbp.kibomodz.online/apk/latest.apk?version=5",
+  "metadata": {
+    "oldHost": "https://bdversion.ggbluefox.com/live",
+    "newHost": "https://clientbp.kibomodz.online/ver",
+    "oldHost2": "https://version.common.redflamenco.com/live",
+    "newHost2": "https://clientbp.kibomodz.online/version123",
+    "newBypassHost": "https://clientbp.kibomodz.online/ve1",
+    "newBypassHost2": "https://clientbp.kibomodz.online/version124",
+    "gameMetadataUrl": ""
+  },
+  "news": [
+    "DARK BRX is Now Anti-Ban! \\nPlease Update App |success|",
+    "Anti-Ban Coming Soon!\\nJoin Discord Server for Updates|success|",
+    "Complete 1k Members in our telegram and we will increase diamonds and golds! Join server from below button|success|",
+    "the server is anti-ban|info|",
+    "otp is Disabled in website so login with discord|success|"
+  ]
+}
